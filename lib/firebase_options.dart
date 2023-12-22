@@ -47,9 +47,9 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyCuXHIJnzVIA9lTfQm1F0xfXbbHqGNDdDE',
     appId: '1:413788721994:web:d8ac94b5773e57a644e7b3',
     messagingSenderId: '413788721994',
-    projectId: 'burclar-bozki-fire',
-    authDomain: 'burclar-bozki-fire.firebaseapp.com',
-    storageBucket: 'burclar-bozki-fire.appspot.com',
+    projectId: '*****',
+    authDomain: '****',
+    storageBucket: '******',
     measurementId: 'G-L2RSV4P8XJ',
   );
 
@@ -57,27 +57,27 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyDvVpUVE_dQem8bFuOyfXtnjRJ8bubkat0',
     appId: '1:413788721994:android:2f52577080f4b20c44e7b3',
     messagingSenderId: '413788721994',
-    projectId: 'burclar-bozki-fire',
-    storageBucket: 'burclar-bozki-fire.appspot.com',
+    projectId: '*****',
+    storageBucket: '******',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyC2KJ1jfKo0vGcNct4j6AeKweC9XQwXTn0',
     appId: '1:413788721994:ios:8a82742783871b1944e7b3',
     messagingSenderId: '413788721994',
-    projectId: 'burclar-bozki-fire',
-    storageBucket: 'burclar-bozki-fire.appspot.com',
+    projectId: '*****',
+    storageBucket: '*****',
     iosClientId: '413788721994-9q1ki1ti3vfvb3d0ej2o2o53q7t1m7sq.apps.googleusercontent.com',
-    iosBundleId: 'com.bozki.burclar',
+    iosBundleId: '*****',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyC2KJ1jfKo0vGcNct4j6AeKweC9XQwXTn0',
     appId: '1:413788721994:ios:8a82742783871b1944e7b3',
     messagingSenderId: '413788721994',
-    projectId: 'burclar-bozki-fire',
-    storageBucket: 'burclar-bozki-fire.appspot.com',
+    projectId: '****',
+    storageBucket: '******',
     iosClientId: '413788721994-9q1ki1ti3vfvb3d0ej2o2o53q7t1m7sq.apps.googleusercontent.com',
-    iosBundleId: 'com.bozki.burclar',
+    iosBundleId: '*******',
   );
 }
